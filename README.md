@@ -10,7 +10,7 @@ When organizing, remember the mission of GoBridge is to diversify and improve th
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
 
-If you want to teach at or attend a workshop, RSVP for a workshop near you on Eventbrite. The list of workshops can be found on [gobridge/events](https://github.com/gobridge/events)! If you want to work on the GoBridge curricula, you want [gobridge/docs](https://github.com/gobridge/docs).
+If you want to teach at or attend a workshop, RSVP for a workshop near you. The list of workshops can be found on [gobridge/events](https://github.com/gobridge/organizing/issues)! If you want to work on the GoBridge curricula, you want [gobridge/docs](https://github.com/gobridge/docs).
 
 Here are some specific ways you can help out:
 
