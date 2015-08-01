@@ -10,7 +10,7 @@ When organizing, remember the mission of GoBridge is to diversify and improve th
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
 
-If you want to teach at or attend a workshop, RSVP for a workshop near you. The list of workshops can be found on [gobridge/events](https://github.com/gobridge/organizing/issues)! If you want to work on the GoBridge curricula, reach out to [Ardan Labs](mailto:bill@ardanlabs.com) and let's make it happen.
+If you want to teach at or attend a workshop, RSVP for a workshop near you. The list of workshops can be found on [gobridge/events](https://github.com/gobridge/organizing/issues)! If you want to work on the GoBridge curricula, reach out to [Ardan Labs](mailto:gobridge@ardanlabs.com) and let's make it happen.
 
 Here are some specific ways you can help out:
 
@@ -53,7 +53,7 @@ An sample message might be:
 
 > Two of our engineers are waiting to RSVP as teachers, and our Lead Recruiter asked to also volunteer, maybe with signing people in and to answer anyone's questions about Sprokets. Cheers!
 
-If you don't see an issue that fits what you're looking for, you can email [Ardan Labs](mailto:bill@ardanlabs.com) and someone will help you out! :wink:
+If you don't see an issue that fits what you're looking for, you can email [Ardan Labs](mailto:gobridge@ardanlabs.com) and someone will help you out! :wink:
 
 ## GitHub ProTips™
 
