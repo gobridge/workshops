@@ -15,7 +15,7 @@ If you want to teach at or attend a workshop, RSVP for a workshop near you. The 
 Here are some specific ways you can help out:
 
 #### Kick off a Workshop
-If you want to kick off a workshop, start by [creating an issue](https://github.com/gobridge/organizing/issues/new). Create one issue for each workshop. It's awesome if the title includes a date, and location, as far as you know. (And you can always edit the issue.) 
+If you want to kick off a workshop, start by [creating an issue](https://github.com/gobridge/organizing/issues). Create one issue for each workshop. It's awesome if the title includes a date, and location, as far as you know. (And you can always edit the issue.) 
 
 Mention your collaborators if you know who they will be, make [todo lists](https://github.com/blog/1542-task-lists-in-gist) for everything that needs to be done, and add some labels. Check out the [first one](https://github.com/gobridge/organizing/issues/1) as an example, and feel free to copy [this gist](https://gist.githubusercontent.com/lilliealbert/8328d415daedfea886d6/raw/623df85d700342e05d3fa988556002bf007ec283/gistfile1.md) as a template when creating a new issue. :bowtie:
 
