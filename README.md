@@ -45,7 +45,7 @@ A sample message might be:
 
 > I talked with our facilities manager, and everyone on the RSVP list can skip signing with security when they come in. Let me know if it's a deal; I'm super excited to make this happen! 
 
-If your company doesn't have space to host a workshop, you can still sponsor! Filter the workshops by those that [need a venue and sponsor](https://github.com/gobridge/organizing/labels/Needs%20Venue/Sponsor) or those that only [need a sponsor](https://github.com/gobridge/organizing/labels/Needs%20Sponsor) and chime in to offer support. 
+If your company doesn't have space to host a workshop, you can still sponsor! Filter the workshops by those that [need a sponsor](https://github.com/gobridge/organizing/labels/Needs%20Sponsor) and chime in to offer support.
 
 An sample message might be:
 
