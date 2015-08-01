@@ -34,7 +34,7 @@ We have very thorough documentation in our [Workshop Cookbook](https://github.co
 
 #### Sponsor a workshop
 
-Most GoBridge workshops take place in offices of companies that support what we're doing. To offer your space, filter the workshops to those that [need a venue](https://github.com/gobridge/organizing/labels/Needs%20Venue/Sponsor)! If you find a workshop you want to host, chime in with a note on the issue, and let the organizers know the location and capacity of your office, along with anything else you think will be relevant for the organizers. 
+Most GoBridge workshops take place in offices of companies that support what we're doing. To offer your space, filter the workshops to those that [need a venue](https://github.com/gobridge/organizing/labels/Needs%20Venue)! If you find a workshop you want to host, chime in with a note on the issue, and let the organizers know the location and capacity of your office, along with anything else you think will be relevant for the organizers. 
 
 A sample message might be:
 > Hi, I work at Sprokets Incoporated, and we'd love to host this workshop! 
