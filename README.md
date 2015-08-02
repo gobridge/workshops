@@ -36,7 +36,7 @@ There are sometimes workshops that have organizers, but the organizers would lov
 
 We have very thorough documentation in our [Wiki](https://github.com/gobridge/organizing/wiki). Check it out!
 
-Be sure to include this [Code of Conduct](http://bridgefoundry.org/code-of-conduct/) with your event.
+Be sure to include a link to this [Code of Conduct](http://bridgefoundry.org/code-of-conduct/) with your event.
 
 #### Sponsor a workshop
 
