@@ -10,6 +10,7 @@ Planning GoBridge workshops should be visible and transparent. Visibility makes 
 When organizing, remember the mission of GoBridge is to diversify and improve the software development community. We ask that:
 * Your workshop reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
 * Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
+* If you do not belong to an underrepresented group and would like to help setup an event, it is best to find someone who represents the group to be the lead. Help them own and run the event, and be there to provide support.
 
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
