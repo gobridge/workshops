@@ -34,7 +34,7 @@ If you'd like to organize a workshop, you can filter the workshops being planned
 
 There are sometimes workshops that have organizers, but the organizers would love help, so feel free to browse through [all the issues](https://github.com/gobridge/organizing/issues). If you see something that's not progressing, leave a comment, letting the organizers know you're available to pitch in. (Also, browsing the issues is a great way to get a feel for the work that goes into a workshop.)
 
-We have very thorough documentation in our [Workshop Cookbook](https://github.com/gobridge/docs/wiki/Cookbook). Check it out!
+We have very thorough documentation in our [Wiki](https://github.com/gobridge/organizing/wiki). Check it out!
 
 #### Sponsor a workshop
 
