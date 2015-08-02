@@ -11,6 +11,9 @@ When organizing, remember the mission of GoBridge is to diversify and improve th
 * Your workshop reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
 * Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
 
+Be sure to include this Code of Conduct with your event:  
+http://bridgefoundry.org/code-of-conduct/
+
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
 
