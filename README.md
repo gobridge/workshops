@@ -3,6 +3,8 @@
 
 GoBridge is an addition to the family of technical workshops that are a part of Bridge Foundry. Bridge Foundry is dedicated to building bridges that educate and empower underserved communities to teach technical skills and foster diversity in tech. To learn more about Bridge Foundry please check out their website, http://bridgefoundry.org.
 
+If you have any questions please send us an email at [support@golangbridge.org](mailto:support@golangbridge.org)
+
 ## Organizing: How workshops happen. :boom:
 
 Planning GoBridge workshops should be visible and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, check out the [list](https://github.com/gobridge/organizing/issues) of workshops currently being planned. 
