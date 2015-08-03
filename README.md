@@ -62,7 +62,7 @@ An sample message might be:
 
 > Two of our engineers are waiting to RSVP as teachers, and our Lead Recruiter asked to also volunteer, maybe with signing people in and to answer anyone's questions about Sprokets. Cheers!
 
-If you don't see an issue that fits what you're looking for, you can email [Support](mailto:support@golangbridge.org) and someone will help you out! :wink:
+If you don't see an issue that fits what you're looking for, you can email [support@golangbridge.org](mailto:support@golangbridge.org) and someone will help you out! :wink:
 
 ## GitHub ProTips™
 
