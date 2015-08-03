@@ -39,7 +39,7 @@ There are sometimes workshops that have organizers, but the organizers would lov
 
 We have very thorough documentation in our [Wiki](https://github.com/gobridge/organizing/wiki). Check it out!
 
-Reach out for help on the mailing list to ask question and get help [ML](https://groups.google.com/forum/#!forum/gobridge).
+Reach out for help on the [mailing list](https://groups.google.com/forum/#!forum/gobridge) to ask question and get help.
 
 Be sure to include a link to this [Code of Conduct](http://bridgefoundry.org/code-of-conduct/) with your event.
 
