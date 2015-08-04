@@ -10,7 +10,7 @@ If you have any questions please send us an email at [support@golangbridge.org](
 Planning GoBridge workshops should be visible and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, check out the [list](https://github.com/gobridge/organizing/issues) of workshops currently being planned. 
 
 When organizing, remember the mission of GoBridge is to diversify and improve the software development community. We ask that:
-* Your workshop reach out to a group of people that are under-represented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or any other under-represented groups.
+* Your workshop reach out to a group of people that are under-represented in the community. That might be women, people of color, non-native English speakers, LGBTQIA communities, or any other under-represented groups.
 * Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
 * If you do not belong to an under-represented group and would like to help setup an event, it is best to find someone who represents the group to be the lead. Help them own and run the event and be there to provide support.
 
