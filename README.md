@@ -21,6 +21,6 @@ If you are a company offering a venue or sponsorship for a GoBridge course, or i
 ## Ways to reach us (in order of preference)
 - Join us on the #gobridge channel on Gophers Slack (invite: http://bit.ly/gophers-slack-invite)
 
-- Reach out to us on our mailing-list: https://groups.google.com/forum/#!members/gobridge
+- Reach out to us on our mailing-list: https://groups.google.com/forum/#!forum/gobridge
 
 - Email us at support@golangbridge.org
