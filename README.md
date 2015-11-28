@@ -10,9 +10,9 @@ If you are a company offering a venue or sponsorship for a GoBridge course, or i
 
 - Either an organizer or a sponsor can kickoff a course.
 
-- Visit our [meetup.com](http://www.meetup.com/gobridge/) to see a listing of past events for inspiration.
+- Visit [Bridge Troll](https://www.bridgetroll.org/events) to see a listing of past events for inspiration.
 
-- Please use our [issue template](issue_template.md) when opening a new issue.
+- Please paste our [issue template](issue_template.md) when opening a new issue.
 
 - Select one of our [available courses](available_courses.md), or use your own.
 
