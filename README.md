@@ -1,17 +1,17 @@
 # Workshops
 
-All things GoBridge courses here.
+All things GoBridge workshops here.
 
-Before kicking off a new course, be sure to read about [requirements and details about organizing or sponsoring](https://github.com/gobridge/organizing) a GoBridge course.
+Before kicking off a new workshop, be sure to read about [requirements and details about organizing or sponsoring](https://github.com/gobridge/organizing) a GoBridge workshop.
 
 For information about funding a GoBridge workshop, please visit Bridge Foundry's [finances repo](https://github.com/bridgefoundry/finances).
 
-## Kickoff a new course
-If you are a company offering a venue or sponsorship for a GoBridge workshop, or if you are a person who wants to organize one, please head to our issue list and [open a new issue](https://github.com/gobridge/workshops/issues). We get notified automatically and will get back to you soon after to help make your course happen.
+## Kickoff a new workshop
+If you are a company offering a venue or sponsorship for a GoBridge workshop, or if you are a person who wants to organize one, please head to our issue list and [open a new issue](https://github.com/gobridge/workshops/issues). We get notified automatically and will get back to you soon after to help make your workshop happen.
 
 ## Guidelines
 
-- Either an organizer or a sponsor can kickoff a course.
+- Either an organizer or a sponsor can kickoff a workshop.
 
 - Visit [Bridge Troll](https://www.bridgetroll.org/events) to see a listing of past events for inspiration.
 
