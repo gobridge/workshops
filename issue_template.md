@@ -1,34 +1,46 @@
-## For organizer or sponsor
+Organizers:
+
+Venue:
+
+Date:
+
+Curriculum:
+
+## For organizer/s or sponsor
+### Logistic items
 - [ ] Has venue
 - [ ] Has sponsor for food and drinks
 - [ ] Has organizer(s)
 - [ ] Has teacher(s)
 - [ ] Has date
-- [ ] Course selected
-- [ ] Draft started on [Bridge Troll](https://www.bridgetroll.org/events)
+- [ ] [Course selected](https://github.com/gobridge/workshops/blob/master/available_courses.md#course-descriptions-and-corresponding-levels)
+- [ ] Draft of event started on [Bridge Troll](https://www.bridgetroll.org/events)
+- [ ] Included in the event description if bikes are allowed inside or not (ask venue)
+- [ ] Included in the event description if child care is available or not
 
-## For Organizer(s)
+(Issue ready :dart: to be labeled as `scheduled` :boom::v::tada::balloon::rocket: after all tasks above are completed:exclamation:)
+
 ### A couple weeks before the event
-- [ ] Place an order for catering, if applicable
-- [ ] Arrange for child care, if applicable
+- [ ] Order placed for catering, if applicable
+- [ ] Child care arranged for, if applicable
 
 ## For GoBridge
 ### First steps
-- [ ] Self-assign the issue
-- [ ] Ping the person who opened the issue
-- [ ] Schedule a Google Hangout if this is a first timer
+- [ ] Self-assigned the issue
+- [ ] Pinged the person who opened the issue
+- [ ] Google Hangout scheduled (if this is a first timer)
 
 Continue taking the actions necessary to bring issue to a `scheduled` status according to our [issue workflow](https://github.com/gobridge/workshops/blob/master/issue_workflow.md).
 
-### Event is labeled as `scheduled`
-- [ ] Aprove Bridge Troll event and make it public; add event link to this thread
-- [ ] Open a meetup event and point it to the Bridge Troll event
-- [ ] Add event to GoBridge's website
-- [ ] Start announcing it on social media
-- [ ] Conduct teacher training
-- [ ] Add event date -1 week to your calendar as reminder
+### After event is labeled as `scheduled`
+- [ ] Bridge Troll event made public; added event link to this thread
+- [ ] Opened a meetup event to point to the Bridge Troll event (RSVP on meetup should be closed)
+- [ ] Added a PR to add event to GoBridge's website (remove past events while at it)
+- [ ] First social media announcement's gone out
+- [ ] Conducted organizer training
+- [ ] Conducted teacher training
+- [ ] Assignee added event date -1 week to calendar as reminder
 
 ### Event date -1 week
-- [ ] Confirm venue and date
+- [ ] Confirmed venue and date
 - [ ] More rounds of announcements on social media. Mention how many spots left
-- [ ] Put together a survey to send out post-event

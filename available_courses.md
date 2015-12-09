@@ -11,9 +11,21 @@ The class focuses on both the specification and implementation of the language, 
 
 For details, see the Hardcore Go original repo: https://github.com/ArdanStudios/gotraining.
 
-BridgeTroll levels:
-- Numbers: 2, 3, 4
-- Colors: green, gold, orange
+Students will do well who are:
+
+1) Other Programming Experience
+- You're proficient in another language and understand general programming concepts like collections and scope.
+- You are an intermediate-level developer
+- You might be familiar with version control and basic web architecture
+
+Or
+
+2) Some Go Experience
+- You know how to define a function in Go
+- You have a decent handle on Go slices and maps
+- You have a general understanding of a Go apps structure perhaps from a prior workshop or tutorial
+- You're comfortable using the terminal but not necessarily a Power User
+
 
 Donor: [ArdanStudios](https://www.ardanstudios.com)
 
@@ -22,11 +34,29 @@ More details: https://github.com/gobridge/bwag
 
 Online book: https://www.gitbook.com/book/gobridge/building-web-apps-with-go/details
 
-BridgeTroll levels:
-- Numbers: 2, 3
-- Colors: green, gold
+Students will do well who are:
+
+1) Somewhat New to Programming
+- You know what a function is
+- You might have done an online programming tutorial or two
+- You may have used the terminal a little — to change directories for instance
+
+Or
+
+2) Some Go Experience
+- You know how to define a function in Go
+- You have a decent handle on Go slices and maps
+- You have a general understanding of a Go apps structure perhaps from a prior workshop or tutorial
+- You're comfortable using the terminal but not necessarily a Power User
+
+Or
+
+3) Other Programming Experience
+- You're proficient in another language and understand general programming concepts like collections and scope.
+- You are an intermediate-level developer
+- You might be familiar with version control and basic web architecture
 
 Donor: [Jeremy Saenz](https://codegangsta.io)
 
-Translations:
+Translation:
 - Brazilian Portuguese
