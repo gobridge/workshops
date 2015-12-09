@@ -1,8 +1,10 @@
 # Workshops
 
-All things GoBridge workshops here.
+All things GoBridge workshops start here.
 
 Before kicking off a new workshop, be sure to read about [requirements and details about organizing or sponsoring](https://github.com/gobridge/organizing) a GoBridge workshop.
+
+New to this? We've got your back:exclamation: :boom: We [provide training and have presentation material](https://github.com/gobridge/workshop-material) for you to use!
 
 For information about funding a GoBridge workshop, please visit Bridge Foundry's [finances repo](https://github.com/bridgefoundry/finances).
 
