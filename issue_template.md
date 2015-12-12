@@ -8,7 +8,7 @@ Curriculum:
 
 ## For organizer/s or sponsor
 ### Logistic items
-- [ ] Has venue
+- [ ] Has venue and it sits this many people: ___
 - [ ] Has sponsor for food and drinks
 - [ ] Has organizer(s)
 - [ ] Has teacher(s)
@@ -40,6 +40,11 @@ Continue taking the actions necessary to bring issue to a `scheduled` status acc
 - [ ] Conducted organizer training
 - [ ] Conducted teacher training
 - [ ] Assignee added event date -1 week to calendar as reminder
+
+## For lead organizer
+### Presentations
+- [ ] [Opening presentation](https://github.com/gobridge/workshop-material/blob/master/organizer-welcome.slide) forked, edited, and ready to present
+- [ ] [Closing presentation](https://github.com/gobridge/workshop-material/blob/master/organizer-closing.slide) forked, edited, and ready to present
 
 ### Event date -1 week
 - [ ] Confirmed venue and date

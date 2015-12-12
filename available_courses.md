@@ -6,10 +6,10 @@ GoBridge courses are donated by the community. All of our content is produced an
 We always welcome new content as well as translations for our existing content. We especially welcome course content for beginners. Please get in touch with us if you can contribute with anything related to course content, including translations.
 
 ## Course descriptions and corresponding levels
-### Hardcore Go
+### Ultimate Go
 The class focuses on both the specification and implementation of the language, including topics ranging from language syntax, Go’s type system, concurrency, channels and more.
 
-For details, see the Hardcore Go original repo: https://github.com/ArdanStudios/gotraining.
+For details, see the Ultimate Go original repo: https://github.com/ardanlabs/gotraining.
 
 Students will do well who are:
 
@@ -27,7 +27,7 @@ Or
 - You're comfortable using the terminal but not necessarily a Power User
 
 
-Donor: [ArdanStudios](https://www.ardanstudios.com)
+Donor: [ArdanLabs](https://www.ardanlabs.com/)
 
 ### Building Web Apps with Go
 More details: https://github.com/gobridge/bwag
