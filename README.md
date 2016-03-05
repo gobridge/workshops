@@ -25,7 +25,7 @@ If you are a company offering a venue or sponsorship for a GoBridge workshop, or
 
 ---
 ## Ways to reach us (in order of preference)
-- Join us on the #gobridge channel on Gophers Slack (invite: http://bit.ly/gophers-slack-invite)
+- Join us on the #gobridge channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com)
 
 - Reach out to us on our mailing-list: https://groups.google.com/forum/#!forum/gobridge
 
