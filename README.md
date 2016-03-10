@@ -17,8 +17,6 @@ If you are a company offering a venue or sponsorship for a GoBridge workshop, or
 
 - Visit [Bridge Troll](https://www.bridgetroll.org/events) to see a listing of past events for inspiration.
 
-- Please paste our [issue template](issue_template.md) when opening a new issue.
-
 - Select one of our [available courses](available_courses.md), or use your own.
 
 - Learn about [our workflow](issue_workflow.md) for moving issues all the way through to the `scheduled` status.
