@@ -9,7 +9,7 @@ We always welcome new content as well as translations for our existing content. 
 ### Ultimate Go
 The class focuses on both the specification and implementation of the language, including topics ranging from language syntax, Go’s type system, concurrency, channels and more.
 
-For details, see the Ultimate Go original repo: [https://github.com/ardanlabs/gotraining](bit.ly/ardanlabs-gotraining).
+For details, see the Ultimate Go original repo: [https://github.com/ardanlabs/gotraining](https://bit.ly/ardanlabs-gotraining).
 
 Students will do well who are:
 
@@ -62,7 +62,7 @@ Translation:
 
 
 ### Learn How To Code Google's Go (golang) Programming Language
-More details: [Learn How To Code Go - Todd McLeod](http://bit.ly/gobridge-lhtc)
+More details: [Learn How To Code Go - Todd McLeod](https://bit.ly/gobridge-lhtc)
 
 This course consists of a series of video lectures by the University Professor in Computer Science Todd McLeod. It is a first semester university level programming course and it contains over 20 hours of content that will help you understand why the Go programming language is the best language you can learn today. It will also help you acquire additional valuable programming skills including understanding environment variables, using a command line interface (CLI) terminal, understanding SHA-1 checksums, working with GitHub, and increasing your productivity with an integrated development environment (IDE) such as Webstorm or Atom.io. This course provides options for multiple workshop sessions, each focusing on a separate set of topics.
 
