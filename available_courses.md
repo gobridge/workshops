@@ -93,3 +93,22 @@ Or
 - You might be familiar with version control and basic web architecture
 
 Donor: [Todd McLeod](https://bit.ly/Todd_McLeod_LHTCG)
+
+
+
+### Learn How To Code Google's Go (golang) Programming Language
+More details: [Go for Complete Beginners](https://github.com/Pisush/go_for_complete_beginners)
+
+
+This course designed for complete beginners, and in the end the students will have a local server that consumes a weather API.
+The recommended format is a session of 6 meetings, 3 hours each, meeting every other week. A good instructors/students ratio would be 1:4. Between the classes the instructors would ideally be available on the Gophers slack occasionally to answer questions. The content is an adjustment of [How I Start](https://howistart.org/posts/go/1) to be complete-beginner friendly, with the kind permission of [Peter Bourgon](https://peter.bourgon.org/). 
+
+
+Students will do well who:
+
+1) Have no programming experience
+- You never coded before
+- You are not familiar with programming concepts
+
+
+Donor: [Natalie Pistunovich](https://twitter.com/nataliepis)
