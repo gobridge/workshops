@@ -15,7 +15,7 @@ If you are a company offering a venue or sponsorship for a GoBridge workshop, or
 
 - Either an organizer or a sponsor can kickoff a workshop.
 
-- Visit [Bridge Troll](https://www.bridgetroll.org/events) to see a listing of past events for inspiration.
+- Visit [Meetup Pro Page](https://www.meetup.com/pro/go) to see a listing of Meetups and past events for inspiration.
 
 - Select one of our [available courses](available_courses.md), or use your own.
 
