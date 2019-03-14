@@ -1,6 +1,6 @@
 # Issue Workflow
 
-Issue categorization (labeling) is done by a GoBrige member who has ownership of the workshops repo and who self-assigns the issue.
+Issue categorization (labeling) is done by a GoBridge member who has ownership of the workshops repo and who self-assigns the issue.
 
 ### Issues are categorized by
 - geographical location
