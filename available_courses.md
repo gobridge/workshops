@@ -28,39 +28,6 @@ Or
 
 Donor: [ArdanLabs](https://bit.ly/ardanlabs/)
 
-### Building Web Apps with Go
-More details: https://github.com/gobridge/bwag
-
-Online book: [https://www.gitbook.com/book/gobridge/building-web-apps-with-go/details](https://bit.ly/gobridge-bwag/)
-
-Students will do well who:
-
-1) Are somewhat New to Programming
-- You know what a function is
-- You might have done an online programming tutorial or two
-- You may have used the terminal a little — to change directories for instance
-
-Or
-
-2) Have some Go Experience
-- You know how to define a function in Go
-- You have a decent handle on Go slices and maps
-- You have a general understanding of a Go apps structure perhaps from a prior workshop or tutorial
-- You're comfortable using the terminal but not necessarily a Power User
-
-Or
-
-3) Have other Programming Experience
-- You're proficient in another language and understand general programming concepts like collections and scope.
-- You are an intermediate-level developer
-- You might be familiar with version control and basic web architecture
-
-Donor: [Jeremy Saenz](https://bit.ly/codegansta-bwag/)
-
-Translation:
-- Brazilian Portuguese
-
-
 ### Learn How To Code Google's Go (golang) Programming Language
 More details: [Learn How To Code Go - Todd McLeod](https://bit.ly/gobridge-lhtc)
 
