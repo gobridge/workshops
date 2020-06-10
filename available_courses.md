@@ -26,7 +26,7 @@ Or
 - You have a general understanding of a Go apps structure perhaps from a prior workshop or tutorial
 - You're comfortable using the terminal but not necessarily a Power User
 
-Donor: [ArdanLabs](https://bit.ly/ardanlabs/)
+Donor: [ArdanLabs](https://bit.ly/ardanlabs)
 
 ### Learn How To Code Google's Go (golang) Programming Language
 More details: [Learn How To Code Go - Todd McLeod](https://bit.ly/gobridge-lhtc)
