@@ -29,7 +29,7 @@ Or
 Donor: [ArdanLabs](https://bit.ly/ardanlabs)
 
 ### Learn How To Code Google's Go (golang) Programming Language
-More details: [Learn How To Code Go - Todd McLeod](https://bit.ly/2VauwuA)
+More details: [Learn How To Code Go - Todd McLeod](https://www.youtube.com/watch?v=l7vX1pwTBM4&list=PL6cactdCCnTI1RH7kGY7nGT13gj6yMzvX)
 
 This course consists of a series of video lectures by the University Professor in Computer Science Todd McLeod. It is a first semester university level programming course and it contains over 20 hours of content that will help you understand why the Go programming language is the best language you can learn today. It will also help you acquire additional valuable programming skills including understanding environment variables, using a command line interface (CLI) terminal, understanding SHA-1 checksums, working with GitHub, and increasing your productivity with an integrated development environment (IDE) such as Webstorm or Atom.io. This course provides options for multiple workshop sessions, each focusing on a separate set of topics.
 
